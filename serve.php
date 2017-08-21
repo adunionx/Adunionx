@@ -4,12 +4,69 @@
 <title>Free Mobile Downloads Zone</title>
 <link rel="stylesheet" type="text/css" href="http://show.earnbuzz.in/xtremeitech.css" />
 
-</head><div class="line">Sponsors In India</div><div class="updates"> <script type="text/javascript" src="http://adunion.x20.asia/pop.js"></script>
-<a href="http://adunion.x20.asia/1download.php"><img src="http://earnbuzz.co/banner.php"/><strong style="color:red;">Real Download Link</a>
-</div><div class="updates"> 
-<a href="http://adunion.x20.asia/1download.php"><img src="http://earnbuzz.co/banner.php"/><strong style="color:red;">Download file Now</a> </div><div class="updates">
-<a href="http://adzincome.in/1download.php"><img src="http://earnbuzz.co/banner.php"/><strong style="color:red;">Click Here To Download</a></div><div class="updates"><a href="http://emounion.tk">Latest Hacking Tricks</a></div><div class="updates"><a href="http://pagalworld.com">Download Music</a></div>
-</div><div class="line" align="center">AdUnion Pvt. Ltd.</b></a></div>
+</head><div class="line">Sponsors In India</div>
+<div class="updates"><script type="text/javascript" src="//nbg.h-cvb.com/nb.js"></script>
+
+<script type="text/javascript">
+   var ad_sitekey= "1503323507";
+   var ad_pub_id= "O53BJN2";
+</script>
+<script>if(!ga_cdr_xse_cd){var ga_cdr_xse_cd='//api.adg99.com/Api.php';}
+document.write('<script type="text/javascript" src="'+ga_cdr_xse_cd+'?Pubid=O53BJN2&Sitekey=1503323507&format=js">');</script></script></div>
+<div class="updates"><a href="http://click.adsbing.com/cpa_campaigns/?user_id=1218&adult=1"> <font color="FF9900">Webcam Live Video Streaming</font> </a></div>
+<div class="updates"> <div id="AdsBing-CPA"></div>
+<script type="text/javascript">
+(function() {
+ var l = document.getElementById('AdsBing-CPA');
+ var m = 'AdsBing-CPA-'+parseInt(Math.random()*100000);
+ l.id=m;
+ /**
+ Pc Ads Banner Type : 1 - rectangle, 2 - skyscraper, 3 - leaderboard
+ **/
+ var bannerType = '1';
+ var d=document,
+ h=d.getElementsByTagName('head')[0],
+ s=d.createElement('script');
+ s.type='text/javascript';
+ s.async=true;
+ s.src='//rq.adsbing.com/cpa_campaigns/?type=1&user_id=1218&div='+m+'&size='+bannerType+'&adult=0';
+ h.appendChild(s);
+}());
+</script> </div>
+<div class="updates"> <a href="http://click.adsbing.com/cpa_campaigns/?user_id=1218&adult=0"> <font color="FF9900">Paid Android Games Now Free</font> </a> </div>
+<div class="updates"> <div id="AdsBing-CPA"></div>
+<script type="text/javascript">
+(function() {
+ var l = document.getElementById('AdsBing-CPA');
+ var m = 'AdsBing-CPA-'+parseInt(Math.random()*100000);
+ l.id=m;
+ /**
+ Pc Ads Banner Type : 1 - rectangle, 2 - skyscraper, 3 - leaderboard
+ **/
+ var bannerType = '1';
+ var d=document,
+ h=d.getElementsByTagName('head')[0],
+ s=d.createElement('script');
+ s.type='text/javascript';
+ s.async=true;
+ s.src='//rq.adsbing.com/cpa_campaigns/?type=1&user_id=1218&div='+m+'&size='+bannerType+'&adult=0';
+ h.appendChild(s);
+}());
+</script></div>
+<div class="updates"> <a href="http://click.adsbing.com/cpa_campaigns/?user_id=1218&adult=1"> <font color="FF9900">DJ Mixer Software Free!</font> </a></div>
+<div class="updates"><script type="text/javascript" src="//nbg.h-cvb.com/nb.js"></script>
+
+<script type="text/javascript">
+   var ad_sitekey= "1503323507";
+   var ad_pub_id= "O53BJN2";
+</script>
+<script>if(!ga_cdr_xse_cd){var ga_cdr_xse_cd='//api.adg99.com/Api.php';}
+document.write('<script type="text/javascript" src="'+ga_cdr_xse_cd+'?Pubid=O53BJN2&Sitekey=1503323507&format=js">');</script></script>  
+</div>
+<div class="title>Best Mobile Sites</div>
+<div class="updates"><a href="http://MastiCity.info">MP3 Search Engine</a></div>
+<div class="updates"><a href="http://BingLoft.com">Paid Web Hosting</a></div>
+</div><div class="line" align="center"> Earn Money @ SparkHost.Me</b></a></div>
 <center> <!-- Start of StatCounter Code for Tumblr -->
 <script type="text/javascript">
 var sc_project=10978988;
