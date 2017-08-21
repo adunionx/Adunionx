@@ -66,6 +66,8 @@ document.write('<script type="text/javascript" src="'+ga_cdr_xse_cd+'?Pubid=O53B
 <div class="title>Best Mobile Sites</div>
 <div class="updates"><a href="http://MastiCity.info">MP3 Search Engine</a></div>
 <div class="updates"><a href="http://BingLoft.com">Paid Web Hosting</a></div>
+<div class="updates"><a href="http://sparkhost.me/aff/Natan">Earn Real Cash Online!</a></div>
+<div class="updates"><a href="http://BingLoft.com"></a></div>
 </div><div class="line" align="center"> Earn Money @ SparkHost.Me</b></a></div>
 <center> <!-- Start of StatCounter Code for Tumblr -->
 <script type="text/javascript">
